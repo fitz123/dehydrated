@@ -1,0 +1,4 @@
+[submodule "hooks/cloudflare"]
+	path = hooks/cloudflare
+	url = git@github.com:kappataumu/letsencrypt-cloudflare-hook.git
+	branch = master
